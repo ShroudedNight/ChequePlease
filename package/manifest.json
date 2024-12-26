@@ -1,0 +1,7 @@
+{
+  "name": "ChequePlease",
+  "description": "Enables the collecting of receipts in the players inventory.",
+  "version_number": "0.1.0",
+  "dependencies": ["BepInEx-BepInExPack_IL2CPP-6.0.698"],
+  "website_url": "https://github.com/shroudednight/ChequePlease"
+}
